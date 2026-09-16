@@ -12,11 +12,11 @@ Create additional fully customizable action bars while keeping the original Vani
 2. Extract the downloaded archive.
 3. Rename the folder:
 
-`ButtonForge-Classic-Reforged-main`
+`ButtonForgeClassic-main`
 
 to:
 
-`ButtonForge-Classic`
+`ButtonForgeClassic`
 
 4. Move the folder into:
 
@@ -27,8 +27,8 @@ The final structure should look like:
 ```text
 Interface
 └── AddOns
-    └── ButtonForge-Classic-Reforged
-        ├── ButtonForge-Classic-Reforged.toc
+    └── ButtonForgeClassic
+        ├── ButtonForgeClassic.toc
         ├── Core.lua
         ├── Bar.lua
         ├── Button.lua
@@ -185,7 +185,7 @@ Each character can therefore have its own:
 
 ## ⚡ Performance
 
-**ButtonForge Classic Reforged** is designed to remain lightweight.
+**ButtonForgeClassic** is designed to remain lightweight.
 
 It uses the original Vanilla UI systems wherever possible instead of replacing the complete action bar system with a large framework.
 
